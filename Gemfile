@@ -6,6 +6,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+gem 'rack', '2.0.6'
 
 group :test do
   gem 'rspec'
